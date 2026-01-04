@@ -1,4 +1,4 @@
-## Hi there 👋 📫 How to reach me: E-Mail to wkg2673@gmail.com
+## Hi there 👋 📫 How to reach me: E-Mail to wkg2673@gmail.com or DM on Instagram.
 
 <!--
 **wkg2673/wkg2673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

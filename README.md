@@ -1,2 +1,4 @@
 ## Hi there 👋 📫 How to reach me: E-Mail to wkg2673@gmail.com or DM on Instagram.
-![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=wkg2673&layout=normal&langs_count=6&theme=dark&hide_border=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=wkg2673&hide_border=true)
+
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=wkg2673&days=90&width=360&height=90&hide_border=true&title=Contributions+in+the+Last+90+Days)

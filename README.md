@@ -1,7 +1,10 @@
 # Hi there! 👋
+
+*Interested in tech as a hobby, particularly programming, Linux and cybersecurity.*
+
 - **Email:** [tobias.scheuer@htlstp.at](mailto:tobias.scheuer@htlstp.at)
 - **Instagram:** Feel free to DM me!
-- **Availability:** Mostly on Weekends.
+- **Availability:** Mostly on weekends.
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=wkg2673&hide_border=true&refresh=1)
 

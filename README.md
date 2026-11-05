@@ -4,7 +4,7 @@
 
 - **Email:** [tobias.scheuer@htlstp.at](mailto:tobias.scheuer@htlstp.at)
 - **Instagram:** Feel free to DM me at [to8_zljghvru](https://instagram.com/to8_zljghvru)!
-- **Availability:** Usually availible on weekends.
+- **Availability:** Usually available on weekends.
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=wkg2673&hide_border=true&refresh=1)
 

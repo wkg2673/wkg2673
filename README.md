@@ -24,7 +24,6 @@
 ![Docker](https://img.shields.io/badge/DOCKER-2560FF?style=for-the-badge&logo=docker&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/tryhackme-24292e?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/opencode-212121?style=for-the-badge&logo=opencode&logoColor=white)
-![TradingView](https://img.shields.io/badge/tradingview-131622?style=for-the-badge&logo=tradingview&logoColor=white)
 ![CachyOS](https://img.shields.io/badge/cachyos-00AA88?style=for-the-badge&logo=cachyos&logoColor=white)
 
 ---

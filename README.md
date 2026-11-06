@@ -3,7 +3,7 @@
 [insta]: https://instagram.com/to8_zljghvru
 [email]: mailto:tobias.scheuer@htlstp.at
 
-# <samp>&gt; Hi there! <img width="241" height="234" alt="waving" src="https://github.com/user-attachments/assets/8f3cfa65-382c-4e93-907e-961d732b0416" /> </samp>
+# <samp>&gt; Hi there! <img width="24" height="24" alt="waving" src="https://github.com/user-attachments/assets/8f3cfa65-382c-4e93-907e-961d732b0416" /> </samp>
 
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-ff4500?style=flat&logo=reddit&logoColor=white)][reddit]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][insta]

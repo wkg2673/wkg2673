@@ -1,9 +1,16 @@
-# Hi there! 👋
+<!-- List Of Websites-->
+[reddit]: https://www.reddit.com/user/Chemical-Math-9156
+[insta]: https://instagram.com/to8_zljghvru
+[email]: mailto:tobias.scheuer@htlstp.at
+
+# <samp>&gt; Hi there! <img width="241" height="234" alt="waving" src="https://github.com/user-attachments/assets/8f3cfa65-382c-4e93-907e-961d732b0416" /> </samp>
+
+[![Reddit Badge](https://img.shields.io/badge/-Reddit-ff4500?style=flat&logo=reddit&logoColor=white)][reddit]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][insta]
 
 *Interested in tech as a hobby, particularly programming, Linux and cybersecurity.*
 
-- **Email:** [tobias.scheuer@htlstp.at](mailto:tobias.scheuer@htlstp.at)
-- **Instagram:** Feel free to DM me at [to8_zljghvru](https://instagram.com/to8_zljghvru)!
+- **Email:** [tobias.scheuer@htlstp.at][email]
 - **Availability:** Usually available on weekends.
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=wkg2673&custom_title=My%20Github%20Stats&hide_border=true&refresh=1)

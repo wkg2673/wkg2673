@@ -21,6 +21,7 @@
 
 ### Tools & Platforms
 
+[![UptimeRobot status](https://badge.uptimerobot.com/psp/88ccc95eb2b31c8866d06d7abbd49138.svg?style=logo&theme=dark&refresh=1)](https://stats.uptimerobot.com/MpnoZoUkw1)
 ![Docker](https://img.shields.io/badge/DOCKER-2560FF?style=for-the-badge&logo=docker&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/tryhackme-24292e?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/opencode-212121?style=for-the-badge&logo=opencode&logoColor=white)

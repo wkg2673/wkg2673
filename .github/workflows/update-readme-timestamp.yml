@@ -19,7 +19,7 @@ jobs:
       - name: Update timestamp
         run: |
           TIMESTAMP=$(TZ=Europe/Vienna date +"%b %d %Y, %H:%M (UTC%:z)")
-          sed -i "s|^Last edited - .*|Last edited - $TIMESTAMP|" README.md
+          sed -i "s|^###### Last edited - .*|###### Last edited - $TIMESTAMP|" README.md
 
       - name: Commit changes
         run: |

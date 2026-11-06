@@ -38,4 +38,4 @@
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repos.
+#### *Thanks for visiting my profile! Feel free to explore my repos.*

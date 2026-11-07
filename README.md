@@ -2,6 +2,8 @@
 [reddit]: https://www.reddit.com/user/Chemical-Math-9156
 [insta]: https://instagram.com/to8_zljghvru
 [email]: mailto:tobias.scheuer@htlstp.at
+[repo-1]: https://github.com/wkg2673/customOS
+[repo-2]: https://github.com/wkg2673/to8-Arch
 
 # <samp>&gt; Hi there! <img width="24" height="24" alt="waving" src="https://github.com/user-attachments/assets/8f3cfa65-382c-4e93-907e-961d732b0416" /> </samp>
 
@@ -14,6 +16,10 @@
 
 *Interested in tech as a hobby, particularly programming, Linux and cybersecurity.*
 - **Availability:** Usually available on weekends.
+
+### Projects I'm currently working on:
+- [![customOS](https://img.shields.io/badge/customOS-repo-blue?logo=github)][repo-1] - A custom OS developed in C#.
+- [![to8-Arch](https://img.shields.io/badge/to8_Arch-repo-blue?logo=github)][repo-2] - An Archcraft-based custom Version of Arch Linux.
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=wkg2673&custom_title=My%20Github%20Stats&hide_border=true&refresh=1)
 

@@ -57,8 +57,8 @@
 ### Latest commit to [customOS][repo-1]
 
 <!-- COMMIT_START -->
-**[Updated image in README](https://github.com/wkg2673/customOS/commit/62073685e2c744fc20578e56c524bfa4e4d2bf0c)**  
-2026-11-09 · `6207368`
+**[Shortened link in README](https://github.com/wkg2673/customOS/commit/745f2e2ada61395abf889a8004aa95e678eec2f4)**  
+2026-11-09 · `745f2e2`
 <!-- COMMIT_END -->
 
 ---

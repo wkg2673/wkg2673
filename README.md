@@ -56,9 +56,9 @@
 
 ### Latest commit to linux kernel([torvalds/linux][linux])
 
-<!-- LATEST_COMMIT_START -->
+<!-- LINUX_COMMIT_START -->
 Latest commit loading...
-<!-- LATEST_COMMIT_END -->
+<!-- LINUX_COMMIT_END -->
 
 ---
 

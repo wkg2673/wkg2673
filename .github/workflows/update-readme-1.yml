@@ -14,7 +14,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Fetch latest Linux commit
         run: |
@@ -36,17 +37,24 @@ jobs:
           path = Path("README.md")
           content = path.read_text()
 
-          replacement = (
-              f"**[{os.environ['MESSAGE']}]({os.environ['URL']})**  \n"
-              f"📅 {os.environ['DATE']} · "
-              f"`{os.environ['SHA'][:7]}`"
-          )
-
           start = "<!-- LINUX_COMMIT_START -->"
           end = "<!-- LINUX_COMMIT_END -->"
 
+          if start not in content or end not in content:
+              raise ValueError(
+                  "README is missing LINUX_COMMIT_START "
+                  "or LINUX_COMMIT_END markers"
+              )
+
           before, rest = content.split(start, 1)
           _, after = rest.split(end, 1)
+
+          replacement = (
+              f"**[{os.environ['MESSAGE']}]"
+              f"({os.environ['URL']})**  \n"
+              f"📅 {os.environ['DATE']} · "
+              f"`{os.environ['SHA'][:7]}`"
+          )
 
           path.write_text(
               before + start + "\n" +
@@ -54,14 +62,16 @@ jobs:
           )
           PY
 
-      - name: Push README update
+      - name: Commit README changes
         run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add README.md
 
           if ! git diff --cached --quiet; then
             git commit -m "docs: update Linux latest commit"
             git push
+          else
+            echo "README is already up to date."
           fi

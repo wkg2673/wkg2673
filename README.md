@@ -42,6 +42,17 @@
 ![TradingView](https://img.shields.io/badge/tradingview-131622?style=for-the-badge&logo=tradingview&logoColor=white)
 ![CachyOS](https://img.shields.io/badge/cachyos-00AA88?style=for-the-badge&logo=cachyos&logoColor=white)
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/wkg2673/wkg2673/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/wkg2673/wkg2673/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/wkg2673/wkg2673/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 #### *Thanks for visiting my profile! Feel free to explore my repos.* 

@@ -21,7 +21,7 @@ jobs:
           MESSAGE=$(git log -1 --pretty=%s)
           DATE=$(git log -1 --date=short --pretty=%cd)
           HASH=$(git rev-parse --short HEAD)
-          URL="https://github.com/${GITHUB_REPOSITORY}/commit/$(git rev-parse HEAD)"
+          URL="https://github.com/torvalds/linux/commit/$(git rev-parse HEAD)"
 
           python3 -c '
           import os

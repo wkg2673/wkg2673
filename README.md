@@ -4,6 +4,7 @@
 [email]: mailto:tobias.scheuer@htlstp.at
 [repo-1]: https://github.com/wkg2673/customOS
 [repo-2]: https://github.com/wkg2673/to8-Arch
+[linux]: https://github.com/torvalds/linux
 
 # <samp>&gt; Hi there! <img width="24" height="24" alt="waving" src="https://github.com/user-attachments/assets/8f3cfa65-382c-4e93-907e-961d732b0416" /> </samp>
 
@@ -53,7 +54,12 @@
   </picture>
 </p>
 
+### Latest commit to linux kernel([torvalds/linux][linux])
+
+<!-- LATEST_COMMIT_START -->
+Loading latest commit...
+<!-- LATEST_COMMIT_END -->
+
 ---
 
 #### *Thanks for visiting my profile! Feel free to explore my repos.* 
-###### Last edited - Nov 09 2026, 19:56 (UTC+01:00)

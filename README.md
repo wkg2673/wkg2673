@@ -58,7 +58,7 @@
 
 <!-- LINUX_COMMIT_START -->
 **[Linux 7.4-rc2](https://github.com/torvalds/linux/commit/7475ea8b58616b33c04afb976cf0fbaad9dd63fb)**  
-📅 2026-11-09 · `7475ea8`
+2026-11-09 · `7475ea8`
 <!-- LINUX_COMMIT_END -->
 
 ---

@@ -1,5 +1,5 @@
 
-name: Update Linux Commit
+name: Update Commit
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
       - name: Fetch latest Linux commit
         run: |
           curl -fsSL \
-            "https://api.github.com/repos/torvalds/linux/commits?per_page=1" \
+            "https://api.github.com/repos/wkg2673/customOS/commits?per_page=1" \
             -o commit.json
 
           MESSAGE=$(jq -r '.[0].commit.message | split("\n")[0]' commit.json)
@@ -37,13 +37,13 @@ jobs:
           path = Path("README.md")
           content = path.read_text()
 
-          start = "<!-- LINUX_COMMIT_START -->"
-          end = "<!-- LINUX_COMMIT_END -->"
+          start = "<!-- COMMIT_START -->"
+          end = "<!-- COMMIT_END -->"
 
           if start not in content or end not in content:
               raise ValueError(
-                  "README is missing LINUX_COMMIT_START "
-                  "or LINUX_COMMIT_END markers"
+                  "README is missing COMMIT_START "
+                  "or COMMIT_END markers"
               )
 
           before, rest = content.split(start, 1)
@@ -70,7 +70,7 @@ jobs:
           git add README.md
 
           if ! git diff --cached --quiet; then
-            git commit -m "update latest Linux kernel commit"
+            git commit -m "update latest commit"
             git push
           else
             echo "README is already up to date."

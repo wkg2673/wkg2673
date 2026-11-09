@@ -52,7 +52,7 @@ jobs:
           replacement = (
               f"**[{os.environ['MESSAGE']}]"
               f"({os.environ['URL']})**  \n"
-              f"📅 {os.environ['DATE']} · "
+              f"{os.environ['DATE']} · "
               f"`{os.environ['SHA'][:7]}`"
           )
 

@@ -57,8 +57,7 @@
 ### Latest commit to linux kernel([torvalds/linux][linux])
 
 <!-- LATEST_COMMIT_START -->
-**[Change commit URL](https://github.com/torvalds/linux/commit/23fb01c830b5f10971a86aa0d7daee73bdf60f11)**  
-📅 2026-11-09 · `23fb01c`
+Latest commit loading...
 <!-- LATEST_COMMIT_END -->
 
 ---

@@ -42,6 +42,7 @@
 ![OpenCode](https://img.shields.io/badge/opencode-212121?style=for-the-badge&logo=opencode&logoColor=white)
 ![TradingView](https://img.shields.io/badge/tradingview-131622?style=for-the-badge&logo=tradingview&logoColor=white)
 ![CachyOS](https://img.shields.io/badge/cachyos-00AA88?style=for-the-badge&logo=cachyos&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <p>
   <picture>

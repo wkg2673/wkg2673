@@ -3,7 +3,7 @@ name: Update Commit
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "34 5 * * *"
   workflow_dispatch:
 
 permissions:

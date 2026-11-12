@@ -56,11 +56,10 @@
   </picture>
 </p>
 
-### Latest commit to [customOS][repo-1]
+### Latest commit to [markdown-studio][repo-3]
 
 <!-- COMMIT_START -->
-**[Updated README](https://github.com/wkg2673/customOS/commit/7915f6ace8b53d0c946b79dc9595058cd53402f5)**  
-2026-11-11 · `7915f6a`
+Loading latest commit...
 <!-- COMMIT_END -->
 
 ---

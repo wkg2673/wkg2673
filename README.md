@@ -20,8 +20,8 @@
 - **Availability:** Usually available on weekends.
 
 ### Projects I'm actively working on:
-- [![customOS](https://img.shields.io/badge/customOS-repo-blue?logo=github)][repo-1] - A custom OS developed in C#.
 - [![markdown-studio](https://img.shields.io/badge/markdown_studio-repo-blue?logo=github)][repo-3] - A markdown editor website written in HTML.
+- [![customOS](https://img.shields.io/badge/customOS-repo-blue?logo=github)][repo-1] - A custom OS developed in C#.
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=wkg2673&custom_title=My%20GitHub%20Stats&hide_border=true&hide=trend&refresh=1)
 

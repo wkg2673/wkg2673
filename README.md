@@ -65,4 +65,7 @@
 
 ---
 
-#### *Thanks for visiting my profile! Feel free to explore my repos.* 
+<p align="center">
+  Thanks for visiting my profile! Feel free to explore my repos.<br>
+  <i>Open to collaborations and contributions!</i>
+</p>

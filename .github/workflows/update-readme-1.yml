@@ -20,7 +20,7 @@ jobs:
       - name: Fetch latest Linux commit
         run: |
           curl -fsSL \
-            "https://api.github.com/repos/wkg2673/customOS/commits?per_page=1" \
+            "https://api.github.com/repos/wkg2673/markdown-studio/commits?per_page=1" \
             -o commit.json
 
           MESSAGE=$(jq -r '.[0].commit.message | split("\n")[0]' commit.json)

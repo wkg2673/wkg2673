@@ -59,8 +59,8 @@
 ### Latest commit to [customOS][repo-1]
 
 <!-- COMMIT_START -->
-**[Updated pictures for V1.3.0](https://github.com/wkg2673/customOS/commit/e2a1c415d983dc8c5cfa44ce23071f513a64f410)**  
-2026-11-10 · `e2a1c41`
+**[Updated README](https://github.com/wkg2673/customOS/commit/7915f6ace8b53d0c946b79dc9595058cd53402f5)**  
+2026-11-11 · `7915f6a`
 <!-- COMMIT_END -->
 
 ---

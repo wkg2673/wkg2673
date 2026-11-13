@@ -17,7 +17,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch latest Linux commit
+      - name: Fetch latest Meridian Terminal commit
         run: |
           curl -fsSL \
             "https://api.github.com/repos/wkg2673/meridian-terminal/commits?per_page=1" \
@@ -70,7 +70,7 @@ jobs:
           git add README.md
 
           if ! git diff --cached --quiet; then
-            git commit -m "update latest commit"
+            git commit -m "chore(readme): update latest project commit"
             git push
           else
             echo "README is already up to date."

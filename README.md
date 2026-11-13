@@ -48,7 +48,6 @@
 <img src="https://img.shields.io/badge/tradingview-131622?style=for-the-badge&logo=tradingview&logoColor=white" height="28" alt="TradingView">
 <img src="https://img.shields.io/badge/cachyos-00AA88?style=for-the-badge&logo=cachyos&logoColor=white" height="28" alt="CachyOS">
 </p>
-
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)"

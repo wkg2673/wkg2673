@@ -63,8 +63,8 @@
 ### Latest commit to [Meridian Terminal][repo-4]
 
 <!-- COMMIT_START -->
-**[Updated README](https://github.com/wkg2673/meridian-terminal/commit/3bc920b9bb846dacbcbf89329d2b36ebc431c95a)**  
-2026-11-13 · `3bc920b`
+**[fix: replaced require with ES module import in Tailwind config](https://github.com/wkg2673/meridian-terminal/commit/db84bdf4ec796f793663a7d8ce3435ba3b29a827)**  
+2026-11-13 · `db84bdf`
 <!-- COMMIT_END -->
 
 ---

@@ -60,8 +60,8 @@
 ### Latest commit to [Meridian Terminal][repo-4]
 
 <!-- COMMIT_START -->
-**[Add BSD 3-Clause License](https://github.com/wkg2673/meridian-terminal/commit/905da3f6007676246f4f203ebf95a0a8819181c4)**  
-2026-11-13 · `905da3f`
+**[Updated README](https://github.com/wkg2673/meridian-terminal/commit/3bc920b9bb846dacbcbf89329d2b36ebc431c95a)**  
+2026-11-13 · `3bc920b`
 <!-- COMMIT_END -->
 
 ---

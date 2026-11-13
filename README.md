@@ -39,12 +39,15 @@
 
 ### Tools & Platforms
 
-![VSCode](vscode.png)
-![Docker](https://img.shields.io/badge/DOCKER-2560FF?style=for-the-badge&logo=docker&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/tryhackme-24292e?style=for-the-badge&logo=tryhackme&logoColor=white)
-![OpenCode](https://img.shields.io/badge/opencode-212121?style=for-the-badge&logo=opencode&logoColor=white)
-![TradingView](https://img.shields.io/badge/tradingview-131622?style=for-the-badge&logo=tradingview&logoColor=white)
-![CachyOS](https://img.shields.io/badge/cachyos-00AA88?style=for-the-badge&logo=cachyos&logoColor=white)
+<p>
+<img src="vscode.png" alt="VSCode" height="28">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" alt="Git">
+<img src="https://img.shields.io/badge/DOCKER-2560FF?style=for-the-badge&logo=docker&logoColor=white" height="28" alt="Docker">
+<img src="https://img.shields.io/badge/tryhackme-24292e?style=for-the-badge&logo=tryhackme&logoColor=white" height="28" alt="TryHackMe">
+<img src="https://img.shields.io/badge/opencode-212121?style=for-the-badge&logo=opencode&logoColor=white" height="28" alt="OpenCode">
+<img src="https://img.shields.io/badge/tradingview-131622?style=for-the-badge&logo=tradingview&logoColor=white" height="28" alt="TradingView">
+<img src="https://img.shields.io/badge/cachyos-00AA88?style=for-the-badge&logo=cachyos&logoColor=white" height="28" alt="CachyOS">
+</p>
 
 <p>
   <picture>

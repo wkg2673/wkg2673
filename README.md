@@ -63,8 +63,9 @@
 ### Latest commit
 
 <!-- COMMIT_START -->
-**[Your latest commit](https://github.com/...)**  
-2026-11-13 · `db84bf`
+**[fix: replaced require with ES module import in Tailwind config](https://github.com/wkg2673/meridian-terminal/commit/db84bdf4ec796f793663a7d8ce3435ba3b29a827)**  
+2026-11-13 · `db84bdf`  
+Repository: [wkg2673/meridian-terminal](https://github.com/wkg2673/meridian-terminal)
 <!-- COMMIT_END -->
 
 ---

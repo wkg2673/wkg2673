@@ -5,6 +5,7 @@
 [repo-1]: https://github.com/wkg2673/customOS
 [repo-2]: https://github.com/wkg2673/to8-Arch
 [repo-3]: https://github.com/wkg2673/markdown-studio
+[repo-4]: https://github.com/wkg2673/meridian-terminal
 [linux]: https://github.com/torvalds/linux
 
 # <samp>&gt; Hi there! <img width="24" height="24" alt="waving" src="https://github.com/user-attachments/assets/8f3cfa65-382c-4e93-907e-961d732b0416" /> </samp>
@@ -20,8 +21,8 @@
 - **Availability:** Usually available on weekends.
 
 ### Projects I'm actively working on:
+- [![Meridian Terminal](https://img.shields.io/badge/Meridian_Terminal-repo-blue?logo=github)][repo-4] - An open-source charting and market analysis platform inspired by TradingView.
 - [![markdown-studio](https://img.shields.io/badge/markdown_studio-repo-blue?logo=github)][repo-3] - A markdown editor website written in HTML.
-- [![customOS](https://img.shields.io/badge/customOS-repo-blue?logo=github)][repo-1] - A custom OS developed in C#.
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=wkg2673&custom_title=My%20GitHub%20Stats&hide_border=true&hide=trend&refresh=1)
 
@@ -56,11 +57,10 @@
   </picture>
 </p>
 
-### Latest commit to [markdown-studio][repo-3]
+### Latest commit to [Meridian Terminal][repo-4]
 
 <!-- COMMIT_START -->
-**[Small change in CONTRIBUTING.md](https://github.com/wkg2673/markdown-studio/commit/50e497bd084345e912c33c7e55cf831be29faaa8)**  
-2026-11-12 · `50e497b`
+Latest commit is loading...
 <!-- COMMIT_END -->
 
 ---

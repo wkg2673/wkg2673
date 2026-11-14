@@ -63,9 +63,9 @@
 ### Latest commit
 
 <!-- COMMIT_START -->
-**[fix: replaced require with ES module import in Tailwind config](https://github.com/wkg2673/meridian-terminal/commit/db84bdf4ec796f793663a7d8ce3435ba3b29a827)**  
-2026-11-13 · `db84bdf`  
-Repository: [wkg2673/meridian-terminal](https://github.com/wkg2673/meridian-terminal)
+**[Merge branch 'torvalds:master' into master](https://github.com/wkg2673/linux-kernel/commit/709802603096537133eaab6b3a28bdce2e124eb2)**  
+2026-11-14 · `7098026`  
+Repository: [wkg2673/linux-kernel](https://github.com/wkg2673/linux-kernel)
 <!-- COMMIT_END -->
 
 ---

@@ -63,9 +63,9 @@
 ### Latest commit
 
 <!-- COMMIT_START -->
-**[Merge branch 'torvalds:master' into master](https://github.com/wkg2673/linux-kernel/commit/a23206a080d60527bb1e0afc6db98887af57fdd2)**  
-2026-11-15 · `a23206a`  
-Repository: [wkg2673/linux-kernel](https://github.com/wkg2673/linux-kernel)
+**[update: Drag&Drop, System theme option, Prompted PWA updates](https://github.com/wkg2673/markdown-studio/commit/7a74d219bdc25a63ed049bfffb59dc04a49f8f5d)**  
+2026-11-15 · `7a74d21`  
+Repository: [wkg2673/markdown-studio](https://github.com/wkg2673/markdown-studio)
 <!-- COMMIT_END -->
 
 ---

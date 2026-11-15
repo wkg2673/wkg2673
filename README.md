@@ -12,10 +12,10 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Location-Austria-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=xs&amp;mode=dark"><img alt="Location" src="https://www.shieldcn.dev/badge/Location-Austria-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=xs&amp;mode=light"></picture>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=wkg2673.visitor-badge&left_text=visitors&format=true)
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-ff4500?style=flat&logo=reddit&logoColor=white)][reddit]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][insta]
 [![E-Mail](https://img.shields.io/badge/Email-2b2b2b?style=flat&logo=protonmail&logoColor=white)][email]
-
 
 *Interested in tech as a hobby, particularly programming, Linux and cybersecurity.*
 - **Availability:** Usually available on weekends.

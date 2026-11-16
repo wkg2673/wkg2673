@@ -63,9 +63,9 @@
 ### Latest commit
 
 <!-- COMMIT_START -->
-**[Merge branch 'torvalds:master' into master](https://github.com/wkg2673/linux-kernel/commit/a70e5e88ebf8b632d94053300848b239531c85ba)**  
-2026-11-16 · `a70e5e8`  
-Repository: [wkg2673/linux-kernel](https://github.com/wkg2673/linux-kernel)
+**[docs: updated README](https://github.com/wkg2673/custom-uefi/commit/177e54bc3d993c93664afc1a4dcaa485565ecb44)**  
+2026-11-16 · `177e54b`  
+Repository: [wkg2673/custom-uefi](https://github.com/wkg2673/custom-uefi)
 <!-- COMMIT_END -->
 
 ---

@@ -21,8 +21,8 @@
 - **Availability:** Usually available on weekends.
 
 ### Projects I'm actively working on:
-- [![Meridian Terminal](https://img.shields.io/badge/Meridian_Terminal-repo-blue?logo=github)][repo-4] - An open-source charting and market analysis platform inspired by TradingView.
 - [![custom-uefi](https://img.shields.io/badge/Custom_UEFI-repo-blue?logo=github)][repo-3] - A tiny, custom UEFI shell written in C.
+- [![Meridian Terminal](https://img.shields.io/badge/Meridian_Terminal-repo-blue?logo=github)][repo-4] - An open-source charting and market analysis platform inspired by TradingView.
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=wkg2673&custom_title=My%20GitHub%20Stats&hide_border=true&hide=trend&refresh=1)
 

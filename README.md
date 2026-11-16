@@ -4,7 +4,7 @@
 [email]: mailto:tobias.scheuer@htlstp.at
 [repo-1]: https://github.com/wkg2673/customOS
 [repo-2]: https://github.com/wkg2673/to8-Arch
-[repo-3]: https://github.com/wkg2673/markdown-studio
+[repo-3]: https://github.com/wkg2673/custom-uefi
 [repo-4]: https://github.com/wkg2673/meridian-terminal
 [linux]: https://github.com/torvalds/linux
 
@@ -22,7 +22,7 @@
 
 ### Projects I'm actively working on:
 - [![Meridian Terminal](https://img.shields.io/badge/Meridian_Terminal-repo-blue?logo=github)][repo-4] - An open-source charting and market analysis platform inspired by TradingView.
-- [![markdown-studio](https://img.shields.io/badge/markdown_studio-repo-blue?logo=github)][repo-3] - A markdown editor website written in HTML.
+- [![custom-uefi](https://img.shields.io/badge/Custom_UEFI-repo-blue?logo=github)][repo-3] - A tiny, custom UEFI shell written in C.
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=wkg2673&custom_title=My%20GitHub%20Stats&hide_border=true&hide=trend&refresh=1)
 

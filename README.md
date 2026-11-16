@@ -63,8 +63,8 @@
 ### Latest commit
 
 <!-- COMMIT_START -->
-**[docs: updated README](https://github.com/wkg2673/custom-uefi/commit/177e54bc3d993c93664afc1a4dcaa485565ecb44)**  
-2026-11-16 · `177e54b`  
+**[docs: updated README](https://github.com/wkg2673/custom-uefi/commit/a02aef5a85e47d67cdf0cabae10f948e4ea1347d)**  
+2026-11-16 · `a02aef5`  
 Repository: [wkg2673/custom-uefi](https://github.com/wkg2673/custom-uefi)
 <!-- COMMIT_END -->
 

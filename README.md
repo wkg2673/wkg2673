@@ -16,6 +16,7 @@
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-ff4500?style=flat&logo=reddit&logoColor=white)][reddit]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][insta]
 [![E-Mail](https://img.shields.io/badge/Email-2b2b2b?style=flat&logo=protonmail&logoColor=white)][email]
+[![Donate](https://img.shields.io/badge/Monero-Donate-FF6600?style=flat-square&logo=monero&logoColor=white)](monero-qr.png)
 
 *Interested in tech as a hobby, particularly programming, Linux and cybersecurity.*
 - **Availability:** Usually available on weekends.

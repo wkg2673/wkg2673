@@ -1,8 +1,8 @@
-<!-- List Of Websites-->
+<!-- List Of Links-->
 [reddit]: https://www.reddit.com/user/Chemical-Math-9156
 [insta]: https://instagram.com/to8_zljghvru
 [email]: mailto:tobias.scheuer@htlstp.at
-[donate-link]: https://wkg2673.github.io/donations
+[donate-link]: https://wkg2673.github.io/donations/
 [repo-1]: https://github.com/wkg2673/customOS
 [repo-2]: https://github.com/wkg2673/to8-Arch
 [repo-3]: https://github.com/wkg2673/custom-uefi

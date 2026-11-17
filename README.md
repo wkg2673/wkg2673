@@ -2,6 +2,7 @@
 [reddit]: https://www.reddit.com/user/Chemical-Math-9156
 [insta]: https://instagram.com/to8_zljghvru
 [email]: mailto:tobias.scheuer@htlstp.at
+[donate-link]: https://wkg2673.github.io/donations
 [repo-1]: https://github.com/wkg2673/customOS
 [repo-2]: https://github.com/wkg2673/to8-Arch
 [repo-3]: https://github.com/wkg2673/custom-uefi
@@ -16,7 +17,7 @@
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-ff4500?style=flat&logo=reddit&logoColor=white)][reddit]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][insta]
 [![E-Mail](https://img.shields.io/badge/Email-2b2b2b?style=flat&logo=protonmail&logoColor=white)][email]
-[![Donate](https://img.shields.io/badge/Monero-Donate-FF6600?style=flat&logo=monero&logoColor=white)](monero-qr.png)
+[![Donate](https://img.shields.io/badge/Monero-Donate-FF6600?style=flat&logo=monero&logoColor=white)][donate-link]
 
 *Interested in tech as a hobby, particularly programming, Linux and cybersecurity.*
 - **Availability:** Usually available on weekends.

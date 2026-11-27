@@ -26,9 +26,7 @@
 - [![custom-uefi](https://img.shields.io/badge/Custom_UEFI-repo-blue?logo=github)][repo-3] - A tiny, custom UEFI shell written in C.
 - [![Meridian Terminal](https://img.shields.io/badge/Meridian_Terminal-repo-blue?logo=github)][repo-4] - An open-source charting and market analysis platform inspired by TradingView.
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=wkg2673&custom_title=My%20GitHub%20Stats&hide_border=true&hide=trend&refresh=1)
-
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=wkg2673&days=90&width=360&height=90&hide_border=true&title=Contributions+Last+90+Days&refresh=1)
+![GitHub Stats Card](https://github-stats-extended.vercel.app/api?username=wkg2673&theme=dark_github&refresh=1)
 
 ### Languages & Technologies
 
